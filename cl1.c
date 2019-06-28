@@ -7,7 +7,6 @@ float inc=1.0;
 float angle=135;
 GLfloat minAngle=0.0;
 
-
 float drawCircle(float segments,float radius,float sx,float sy)
 {
     glBegin(GL_LINE_LOOP);
